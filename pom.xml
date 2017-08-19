@@ -103,6 +103,19 @@
 			<artifactId>jjwt</artifactId>
 			<version>0.7.0</version>
 		</dependency>
+		
+		<!-- Swagger e Swagger UI -->
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.6.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
